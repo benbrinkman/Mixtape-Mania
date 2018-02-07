@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - BlueSide
+  - Song
+  - Platform
+  - Studio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - midLayer
+  - Platforms
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1845428227
+    locked: 0
+  - name: Fog
+    uniqueID: 2606637755
+    locked: 0
+  - name: Platforms
+    uniqueID: 2006556701
+    locked: 0
+  - name: particles
+    uniqueID: 1428134915
+    locked: 0
+  - name: Player
+    uniqueID: 66606307
+    locked: 0
+  - name: UI
+    uniqueID: 16788185
+    locked: 0
